@@ -17,10 +17,6 @@ M.base46 = {
     modules = nil,
   },
 
-  hl_override = {
-    Type = { bold = true },
-    Statement = { bold = true },
-  },
 }
 
 return M
