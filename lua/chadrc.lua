@@ -6,7 +6,7 @@
 local M = {}
 
 M.base46 = {
-  theme = "nightlamp",
+  theme = "poimandres",
   transparency = true,
   statusline = {
     theme = "vscode_colored", -- default/vscode/vscode_colored/minimal
