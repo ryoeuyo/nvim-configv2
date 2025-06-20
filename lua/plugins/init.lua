@@ -90,7 +90,7 @@ return {
           git_ignored = false,
         },
         view = {
-          width = 30,
+          width = 38,
         },
         renderer = {
           indent_width = 2,
